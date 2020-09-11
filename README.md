@@ -5,8 +5,12 @@
 
 ## Webサイトの立て方
 
-### 1. [Node.js](https://nodejs.org/ja/) をダウンロードする. 
-URLに飛んで, 濃い緑色の背景にLTSと書いてあるところからダウンロードできる.
+### 1. [Node.js](https://nodejs.org/ja/) をインストールする. 
+URLに飛んで, 濃い緑色の背景にLTSと書いてあるところからダウンロード.
+###### Windowsの方用参考
+[Windows 10へNode.jsをインストールする](https://qiita.com/echolimitless/items/83f8658cf855de04b9ce)
+###### Macの方用参考
+[俺が動画を撮っていたものを既に公開しているものがある笑](https://www.youtube.com/watch?v=TBksWd7l7H4)
 ### 2. Webサイトのプログラムをダウンロード
 
 ##### gitの使い方を知っている方
